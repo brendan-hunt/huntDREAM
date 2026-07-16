@@ -11,11 +11,11 @@ If you do not have a link yet, leave that section as an empty list: []
 */
 
 const studentProfile = {
-  name: "Your Name",
+ name: "Brendan Hunt",
 
   tagline: "DREAM-High Scholar | Computational Biology Portfolio",
 
-  bio: "Write a short paragraph about yourself here. You might include your scientific interests, what you hope to learn in DREAM-High, and something you are excited to explore in computational biology.",
+  bio: "Hi, my name is Brendan Hunt, and I'm interested in learning more about how machine learning can be used to classify cancer here at DREAM-High",
 
   /*
   Optional photo:
@@ -25,7 +25,7 @@ const studentProfile = {
 
   If you do not want to use a photo, leave this as an empty string.
   */
-  photo: "",
+  photo: "profile.jpg",
 
   contact: "Contact information available upon request.",
 
@@ -43,8 +43,12 @@ const studentProfile = {
     },
     {
       title: "Finding Patterns with Heatmaps",
-      url: "https://rpubs.com/"
-    }
+      url: "https://rpubs.com/brendanphunt/introtor"
+    },
+    {
+      title: "Working with TCGA clinical data"
+      url: "http://rpubs.com/brendanphunt/clinicaldata"
+    } 
   ],
 
   /*

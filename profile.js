@@ -46,7 +46,7 @@ const studentProfile = {
       url: "https://rpubs.com/brendanphunt/introtor"
     },
     {
-      title: "Working with TCGA clinical data"
+      title: "Working with TCGA clinical data",
       url: "http://rpubs.com/brendanphunt/clinicaldata"
     } 
   ],

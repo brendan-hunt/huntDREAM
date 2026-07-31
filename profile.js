@@ -48,7 +48,12 @@ const studentProfile = {
     {
       title: "Working with TCGA clinical data",
       url: "http://rpubs.com/brendanphunt/clinicaldata"
-    } 
+    },
+    {
+      title: "Working with cell line data",
+      url: "http://rpubs.com/brendanphunt/cell_line"
+    }
+   
   ],
 
   /*

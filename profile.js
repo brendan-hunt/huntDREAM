@@ -57,6 +57,10 @@ const studentProfile = {
       title: "Working with in-class model",
       url: "https://rpubs.com/brendanphunt/inclassmodel"
     },
+    {
+      title: "Final Project: Random-Forest Model Markdown",
+      url:  "https://rpubs.com/brendanphunt/rf2breast"
+    }
    
   ],
 

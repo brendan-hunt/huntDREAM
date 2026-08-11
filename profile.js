@@ -52,7 +52,11 @@ const studentProfile = {
     {
       title: "Working with cell line data",
       url: "http://rpubs.com/brendanphunt/cell_line"
-    }
+    },
+    {
+      title: "Working with in-class model",
+      url: "https://rpubs.com/brendanphunt/inclassmodel"
+    },
    
   ],
 

@@ -56,10 +56,6 @@ const studentProfile = {
     {
       title: "Working with in-class model",
       url: "https://rpubs.com/brendanphunt/inclassmodel"
-    },
-    {
-      title: "Final Project: Random-Forest Model Markdown",
-      url:  "https://rpubs.com/brendanphunt/rf2breast"
     }
    
   ],
@@ -71,8 +67,8 @@ const studentProfile = {
   */
   finalProject: {
     title: "My DREAM-High Final Project",
-    description: "Write one or two sentences describing your final project.",
-    url: ""
+    description: "Working with Ayush Patel, I created a random forest model for binary breast cancer classification.",
+    url: "https://rpubs.com/brendanphunt/rf2breast"
   },
 
   /*
@@ -82,7 +78,7 @@ const studentProfile = {
   github: [
     {
       title: "My GitHub Profile",
-      url: "https://github.com/"
+      url: "https://github.com/https://github.com/brendan-hunt"
     }
   ]
 };
